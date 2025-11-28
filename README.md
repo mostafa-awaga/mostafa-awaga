@@ -1,6 +1,3 @@
-# 💫 About Me:
-I’m a Computer and Information Systems student specializing in Information Systems, passionate about building modern and efficient web applications.<br>I’m currently developing my skills in Back-End development using .NET and exploring Front-End technologies to become a well-rounded full-stack developer.<br><br>I’m always looking to learn new tools, work on real projects, and improve my problem-solving and software development abilities.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mostafa.hamed.983868/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mostafa_awaga_?igsh=czRxd3JyZHFvMmRr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafa-awaga/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darsh3waga@gmail.com) 
