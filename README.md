@@ -1,42 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mostafa Awaga</h1>
-<h3 align="center">IS Student • Full-Stack / Backend .NET Dev</h3>
 
----
-
-### 🚀 About Me
-- 🎓 Student at Faculty of Computers & Information  
-- 💻 Passionate about web & .NET development  
-- 🌐 Always learning new technologies and improving my skills  
-
----
-
-### 🛠️ Tech Stack  
-<div align="center">  
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cs,net,git,github&theme=dark)  
-</div>
-
----
-
-### 📊 GitHub Stats  
-<div align="center">  
-  [![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa-awaga&show_icons=true&theme=tokyonight)](https://github.com/mostafa-awaga)  
-  <br>  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-awaga&layout=compact&theme=tokyonight)](https://github.com/mostafa-awaga)  
-</div>
-
----
-
-### ✅ Badges & Fun  
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=for-the-badge)](https://twitter.com/your_twitter)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your_linkedin)  
-[![Repo Count](https://img.shields.io/badge/Public%20Repos-5-green?style=for-the-badge)](https://github.com/mostafa-awaga?tab=repositories)
-
----
-
-> “Strive for continuous improvement, not perfection.” 💡  
-
-
-<!--
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mostafa.hamed.983868/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mostafa_awaga_?igsh=czRxd3JyZHFvMmRr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mostafa-awaga/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darsh3waga@gmail.com) 
 
