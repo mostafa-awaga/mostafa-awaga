@@ -18,26 +18,6 @@
 
 ---
 
-### 🚀 About Me
-
-```typescript
-const mostafa = {
-    location: "Egypt 🇪🇬",
-    role: "Full-Stack Developer",
-    code: ["JavaScript", "Python", "C++", "C#"],
-    technologies: {
-        frontEnd: ["HTML5", "CSS3", "JavaScript"],
-        backEnd: [".NET", "C#"],
-        databases: ["MySQL"],
-        tools: ["Git", "Linux"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() 🐛"
-};
-```
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
