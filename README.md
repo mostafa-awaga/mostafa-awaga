@@ -222,7 +222,7 @@
 ---
 
 <!-- Activity Graph -->
-<div align="center">
+<!-- <div align="center">
   
   <h3 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
@@ -232,7 +232,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa-awaga&theme=radical&hide_border=true&area=true" 
        alt="Contribution Graph" />
 
-</div>
+</div> -->
 
 ---
 
