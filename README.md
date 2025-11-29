@@ -234,7 +234,6 @@
 
 </div> -->
 
----
 
 <!-- Footer with Animation -->
 <div align="center">
