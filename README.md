@@ -1,249 +1,194 @@
+<!-- ===== HEADER ===== -->
 <div align="center">
-  
-  <!-- Animated Header with Typing Effect -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mostafa!;+A+Passionate+Fullstack+Developer;+From+Egypt+🇪🇬" />
-  </h1>
 
-  <!-- Animated Profile Banner -->
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Mostafa%20Awaga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  </div>
-
-  <!-- Animated Badges -->
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=mostafa-awaga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/mostafa-awaga?label=Followers&style=social" alt="GitHub Followers" />
-  </div>
-
-  <!-- Animated Introduction -->
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=25&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Developer;Problem+Solver;Code+Enthusiast;Always+Learning+New+Things" />
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7E3ACE&height=200&section=header&text=Mostafa%20Awaga&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Problem%20Solver%20%7C%20Egypt%20🇪🇬&descAlignY=55&descSize=18"/>
 
 </div>
 
----
-
-<!-- About Section with Animation -->
+<!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
-  
-  ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;About Me
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-    I'm a passionate fullstack developer from Egypt 🇪🇬
-    <br>
-    💻 I love writing code and learning new technologies
-    <br>
-    🎯 Focused on building scalable and efficient solutions
-    <br>
-    🌱 Currently learning and exploring new frameworks
-    <br>
-    ⚡ Fun fact: I turn coffee ☕ into code 💻
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=600&height=50&lines=🚀+Building+Scalable+Fullstack+Applications;💡+Turning+Ideas+into+Elegant+Code;🎯+.NET+%7C+JavaScript+%7C+SQL+Enthusiast;☕+Fueled+by+Coffee+and+Curiosity" />
 
 </div>
 
----
-
-<!-- Connect Section -->
+<!-- ===== PROFILE BADGES ===== -->
 <div align="center">
-  
-  <h3 align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    Connect with me:
-  </h3>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/mostafa-awaga" target="blank">
-      <img align="center" 
-           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-           alt="mostafa-awaga" 
-           height="40" 
-           width="50" 
-           style="margin: 0 10px;" />
-    </a>
-    <a href="https://fb.com/mostafa.hamed.983868" target="blank">
-      <img align="center" 
-           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-           alt="mostafa.hamed.983868" 
-           height="40" 
-           width="50"
-           style="margin: 0 10px;" />
-    </a>
-    <a href="https://instagram.com/mostafa_awaga_" target="blank">
-      <img align="center" 
-           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-           alt="mostafa_awaga_" 
-           height="40" 
-           width="50"
-           style="margin: 0 10px;" />
-    </a>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=mostafa-awaga&label=Profile+Views&color=7E3ACE&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/mostafa-awaga?label=Followers&style=for-the-badge&color=7E3ACE&labelColor=0d1117" alt="GitHub Followers" />
 
 </div>
 
----
+<br/>
 
-<!-- Languages and Tools Section -->
+<!-- ===== ABOUT ME ===== -->
 <div align="center">
-  
-  <h3 align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    Languages and Tools:
-  </h3>
 
-  <div align="center">
-    <p align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-             alt="cplusplus" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-             alt="csharp" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-             alt="css3" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" 
-             alt="dotnet" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-             alt="git" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-             alt="html5" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-             alt="java" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-             alt="javascript" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-             alt="linux" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
-             alt="mssql" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-             alt="mysql" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
-             alt="oracle" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-             alt="postman" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-             alt="python" 
-             width="50" 
-             height="50"
-             style="margin: 10px;" /> 
-      </a> 
-    </p>
-  </div>
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
 </div>
 
----
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%">
 
-<!-- GitHub Stats Section -->
+&nbsp;
+
+🔭 &nbsp;Currently working on **.NET Fullstack Projects**
+
+🌱 &nbsp;Learning **Entity Framework Core, Clean Architecture**
+
+💬 &nbsp;Ask me about **C#, .NET, SQL, JavaScript, Java**
+
+🎓 &nbsp;Computer Science student passionate about backend development
+
+⚡ &nbsp;Fun fact: I debug with `Console.WriteLine` before using the debugger 😄
+
+📫 &nbsp;Reach me at **[LinkedIn](https://linkedin.com/in/mostafa-awaga)**
+
+&nbsp;
+
+</td>
+<td width="45%" align="center">
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ===== CONNECT WITH ME ===== -->
 <div align="center">
-  
-  <h3 align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    GitHub Stats:
-  </h3>
 
-  <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafa-awaga&show_icons=true&locale=en&theme=radical&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="mostafa-awaga" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-awaga&theme=radical&border_radius=10&hide_border=true" alt="mostafa-awaga" />
-  </div>
-  <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mostafa-awaga&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="mostafa-awaga" />
-  </div>
+  ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect with Me
+
+  <br/>
+
+  <a href="https://linkedin.com/in/mostafa-awaga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://fb.com/mostafa.hamed.983868" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mostafa_awaga_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 </div>
 
----
+<br/>
 
-<!-- Activity Graph -->
+<!-- ===== TECH STACK ===== -->
+<div align="center">
+
+  ## 🛠️ &nbsp;Tech Stack
+
+  <br/>
+
+  ### Languages
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+  ### Frontend
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  ### Backend & Frameworks
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+  ### Databases
+  ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+  ### Tools & Platforms
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br/>
+
+<!-- ===== GITHUB STATS ===== -->
+<div align="center">
+
+  ## 📊 &nbsp;GitHub Stats
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-awaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-awaga&theme=tokyonight&hide_border=true&background=0d1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" width="48%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-awaga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&text_color=c9d1d9" alt="Top Languages" width="40%" />
+
+</div>
+
+<br/>
+
+
+<!-- ===== SNAKE ANIMATION ===== -->
+<!--
+  📌 To enable the snake animation:
+  1. Create .github/workflows/snake.yml in your profile repo
+  2. Add this workflow:
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: mostafa-awaga
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Run the workflow manually once, then uncomment the image below:
+-->
+
 <!-- <div align="center">
-  
-  <h3 align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    Contribution Graph:
-  </h3>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa-awaga&theme=radical&hide_border=true&area=true" 
-       alt="Contribution Graph" />
-
+  <img src="https://raw.githubusercontent.com/mostafa-awaga/mostafa-awaga/output/github-snake-dark.svg" alt="Snake animation" />
 </div> -->
 
 
-<!-- Footer with Animation -->
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20">
-    Made with ❤️ by Mostafa Awaga
-    <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20">
-  </p>
+<!-- ===== FOOTER ===== -->
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,50:161b22,100:0d1117&height=120&section=footer"/>
+
+  <br/>
+<!-- 
+  <img src="https://img.shields.io/badge/Made_with-❤️-7E3ACE?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/By-Mostafa_Awaga-7E3ACE?style=for-the-badge&labelColor=0d1117" />
+  -->
 
 </div>
