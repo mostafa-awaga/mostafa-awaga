@@ -8,7 +8,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=600&height=50&lines=🚀+Building+Scalable+Fullstack+Applications;💡+Turning+Ideas+into+Elegant+Code;🎯+.NET+%7C+JavaScript+%7C+SQL+Enthusiast;☕+Fueled+by+Coffee+and+Curiosity" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=435&height=45&lines=🚀+Building+Scalable+Fullstack+Apps;💡+Turning+Ideas+into+Elegant+Code;🎯+.NET+%7C+JS+%7C+SQL+Enthusiast;☕+Fueled+by+Coffee+and+Curiosity" /></a>
 
 </div>
 
@@ -30,11 +30,7 @@
 
 </div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%">
-
-&nbsp;
+<div align="center">
 
 🔭 &nbsp;Currently working on **.NET Fullstack Projects**
 
@@ -48,16 +44,11 @@
 
 📫 &nbsp;Reach me at **[LinkedIn](https://linkedin.com/in/mostafa-awaga)**
 
-&nbsp;
+</div>
 
-</td>
-<td width="45%" align="center">
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+</div>
 
 <br/>
 
@@ -129,13 +120,21 @@
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-awaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-awaga&theme=tokyonight&hide_border=true&background=0d1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/mostafa-awaga">
+    <img src="https://github-readme-stats.vercel.app/api?username=mostafa-awaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
+  </a>
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-awaga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&text_color=c9d1d9" alt="Top Languages" width="40%" />
+  <a href="https://github.com/mostafa-awaga">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-awaga&theme=tokyonight&hide_border=true&background=0d1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" width="400" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/mostafa-awaga">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-awaga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&text_color=c9d1d9" alt="Top Languages" width="350" />
+  </a>
 
 </div>
 
@@ -183,8 +182,6 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,50:161b22,100:0d1117&height=120&section=footer"/>
-
-  <br/>
 <!-- 
   <img src="https://img.shields.io/badge/Made_with-❤️-7E3ACE?style=for-the-badge&labelColor=0d1117" />
   &nbsp;
