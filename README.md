@@ -1,18 +1,15 @@
-<!-- ===== HEADER ===== -->
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7E3ACE&height=200&section=header&text=Mostafa%20Awaga&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Problem%20Solver%20%7C%20Egypt%20🇪🇬&descAlignY=55&descSize=18"/>
 
 </div>
 
-<!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7E3ACE&center=true&vCenter=true&random=false&width=435&height=45&lines=🚀+Building+Scalable+Fullstack+Apps;💡+Turning+Ideas+into+Elegant+Code;🎯+.NET+%7C+JS+%7C+SQL+Enthusiast;☕+Fueled+by+Coffee+and+Curiosity" /></a>
 
 </div>
 
-<!-- ===== PROFILE BADGES ===== -->
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=mostafa-awaga&label=Profile+Views&color=7E3ACE&style=for-the-badge" alt="Profile Views" />
@@ -23,7 +20,6 @@
 
 <br/>
 
-<!-- ===== ABOUT ME ===== -->
 <div align="center">
 
   ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
@@ -52,7 +48,6 @@
 
 <br/>
 
-<!-- ===== CONNECT WITH ME ===== -->
 <div align="center">
 
   ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect with Me
@@ -75,7 +70,6 @@
 
 <br/>
 
-<!-- ===== TECH STACK ===== -->
 <div align="center">
 
   ## 🛠️ &nbsp;Tech Stack
@@ -112,7 +106,6 @@
 
 <br/>
 
-<!-- ===== GITHUB STATS ===== -->
 <div align="center">
 
   ## 📊 &nbsp;GitHub Stats
@@ -120,7 +113,7 @@
   <br/>
 
   <a href="https://github.com/mostafa-awaga">
-    <img src="https://github-readme-stats.vercel.app/api?username=mostafa-awaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mostafa-awaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
   </a>
 
   <br/><br/>
@@ -132,7 +125,7 @@
   <br/><br/>
 
   <a href="https://github.com/mostafa-awaga">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-awaga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&text_color=c9d1d9" alt="Top Languages" width="350" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafa-awaga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7E3ACE&text_color=c9d1d9" alt="Top Languages" width="350" />
   </a>
 
 </div>
@@ -140,51 +133,7 @@
 <br/>
 
 
-<!-- ===== SNAKE ANIMATION ===== -->
-<!--
-  📌 To enable the snake animation:
-  1. Create .github/workflows/snake.yml in your profile repo
-  2. Add this workflow:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: mostafa-awaga
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Run the workflow manually once, then uncomment the image below:
--->
-
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/mostafa-awaga/mostafa-awaga/output/github-snake-dark.svg" alt="Snake animation" />
-</div> -->
-
-
-
-<!-- ===== FOOTER ===== -->
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,50:161b22,100:0d1117&height=120&section=footer"/>
-<!-- 
-  <img src="https://img.shields.io/badge/Made_with-❤️-7E3ACE?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/By-Mostafa_Awaga-7E3ACE?style=for-the-badge&labelColor=0d1117" />
-  -->
-
 </div>
