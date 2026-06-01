@@ -21,7 +21,7 @@
 
 <!-- ===== ABOUT ME ===== -->
 <div align="center">
-  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
+  <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me</h1>
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 <!-- ===== CONNECT WITH ME ===== -->
 <div align="center">
-  ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect with Me
+  <h1><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect with Me</h1>
   <br/>
 
   <a href="https://linkedin.com/in/mostafa-awaga" target="_blank">
@@ -56,25 +56,25 @@
 
 <!-- ===== TECH STACK ===== -->
 <div align="center">
-  ## 🛠️ &nbsp;Tech Stack
+  <h1>🛠️ &nbsp;Tech Stack</h1>
   <br/>
 
-  ### 💻 Programming Languages
+  <h3>💻 Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,js&theme=dark" alt="Programming Languages" />
 
   <br/>
 
-  ### 🎨 Frontend
+  <h3>🎨 Frontend</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Development" />
 
   <br/>
 
-  ### ⚙️ Backend & Databases
+  <h3>⚙️ Backend & Databases</h3>
   <img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres&theme=dark" alt="Backend & Databases" />
 
   <br/>
 
-  ### 🧰 Tools & Platforms
+  <h3>🧰 Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,postman,linux&theme=dark" alt="Tools and Platforms" />
 </div>
 
@@ -82,7 +82,7 @@
 
 <!-- ===== GITHUB STATS ===== -->
 <div align="center">
-  ## 📊 &nbsp;GitHub Stats
+  <h1>📊 &nbsp;GitHub Stats</h1>
   <br/>
 
   <a href="https://github.com/mostafa-awaga">
